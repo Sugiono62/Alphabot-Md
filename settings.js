@@ -23,17 +23,17 @@ global.language = english  //change indonesia to english if you don't understand
 
 
 // Other
-global.botname = "Dora Bot" //namabot kalian
-global.ownername= "ᴹᴿ᭄ Dyandra" //nama kalian
+global.botname = "Far Bot" //namabot kalian
+global.ownername= "ᴹᴿ᭄ Fartod" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
 global.github = "https://zeeone-ofc.github.io/" //bebas
 global.email = "zeeoneofc@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.owner = ["6285865462352","6282155122188"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "6285865462352" // nomor wa kalian
-global.ownernomerr = "+6285865462352" //nmr wa kalian
+global.owner = ["6282359367520","6282359367520"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "6282359367520" // nomor wa kalian
+global.ownernomerr = "+6282359367520" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
